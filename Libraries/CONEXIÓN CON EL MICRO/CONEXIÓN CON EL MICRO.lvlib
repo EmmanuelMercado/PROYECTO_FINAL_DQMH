@@ -19,6 +19,7 @@
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="START HELPER LOOP Argument--cluster.ctl" Type="VI" URL="../START HELPER LOOP Argument--cluster.ctl"/>
 				<Item Name="STOP HELPER LOOP Argument--cluster.ctl" Type="VI" URL="../STOP HELPER LOOP Argument--cluster.ctl"/>
+				<Item Name="SOLICITAR DATOS CONEXION Argument--cluster.ctl" Type="VI" URL="../SOLICITAR DATOS CONEXION Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -34,6 +35,7 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="START HELPER LOOP.vi" Type="VI" URL="../START HELPER LOOP.vi"/>
 			<Item Name="STOP HELPER LOOP.vi" Type="VI" URL="../STOP HELPER LOOP.vi"/>
+			<Item Name="SOLICITAR DATOS CONEXION.vi" Type="VI" URL="../SOLICITAR DATOS CONEXION.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>

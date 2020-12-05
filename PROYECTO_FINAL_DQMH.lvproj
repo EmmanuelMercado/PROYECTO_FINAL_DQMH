@@ -11,9 +11,11 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="MODULES" Type="Folder">
+			<Item Name="CONEXIÓN CON EL MICRO.lvlib" Type="Library" URL="../Libraries/CONEXIÓN CON EL MICRO/CONEXIÓN CON EL MICRO.lvlib"/>
 			<Item Name="MAIN.lvlib" Type="Library" URL="../Libraries/MAIN/MAIN.lvlib"/>
 		</Item>
 		<Item Name="TESTERS" Type="Folder">
+			<Item Name="Test CONEXIÓN CON EL MICRO API.vi" Type="VI" URL="../Libraries/CONEXIÓN CON EL MICRO/Test CONEXIÓN CON EL MICRO API.vi"/>
 			<Item Name="Test MAIN API.vi" Type="VI" URL="../Libraries/MAIN/Test MAIN API.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
